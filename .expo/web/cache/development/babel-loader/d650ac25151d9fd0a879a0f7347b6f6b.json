@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var ArrowDownImage = require(\"./arrow_down.png\");","map":{"version":3,"sources":["/Users/Keith/Documents/Git/react-native-demo/images/index.js"],"names":["ArrowDownImage","require"],"mappings":"AAAA,OAAO,IAAMA,cAAc,GAAGC,OAAO,oBAA9B","sourcesContent":["export const ArrowDownImage = require('./arrow_down.png');"]},"metadata":{},"sourceType":"module"}
